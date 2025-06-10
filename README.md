@@ -1,1 +1,3 @@
-# PC_1ano
+# **PC_1ano**
+
+## **Diretório para matéria "pensamento computacional"**.
